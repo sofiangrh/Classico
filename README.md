@@ -6,6 +6,11 @@ The "Office" Metacity theme by lokheed is included in the package as well as the
 
 This theme requires the latest Murrine.
 
+# Screenshot
+![](http://s3.postimg.org/sb6w7v0pf/119883_1.jpg)
+
+![](http://s10.postimg.org/izy71h5hl/119883_2.jpg)
+
 # Changelog:
 First public release.
 
